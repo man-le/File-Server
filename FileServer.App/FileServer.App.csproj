@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="FluentValidation" Version="10.3.3" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.18.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FileServer.Domain\FileServer.Domain.csproj" />
+    <ProjectReference Include="..\FileServer.Infrastructure\FileServer.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="App.Core">
+      <HintPath>..\..\..\..\My_Player\My_Lite_Server\Youtube_Server\YoutubeServer\App_Core\bin\Debug\netcoreapp3.1\App.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Domain.Core">
+      <HintPath>..\..\..\..\My_Player\My_Lite_Server\Youtube_Server\YoutubeServer\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\DomainEvents\" />
+  </ItemGroup>
+
+
+</Project>
