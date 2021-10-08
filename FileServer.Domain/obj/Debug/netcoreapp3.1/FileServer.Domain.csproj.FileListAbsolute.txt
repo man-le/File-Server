@@ -1,0 +1,12 @@
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\bin\Debug\netcoreapp3.1\FileServer.Domain.deps.json
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\bin\Debug\netcoreapp3.1\FileServer.Domain.dll
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\bin\Debug\netcoreapp3.1\FileServer.Domain.pdb
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.csproj.AssemblyReference.cache
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.AssemblyInfoInputs.cache
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.AssemblyInfo.cs
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.csproj.CoreCompileInputs.cache
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.csproj.CopyComplete
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.dll
+C:\File_Explorer\Backend\FileServer\FileServer.Domain\obj\Debug\netcoreapp3.1\FileServer.Domain.pdb

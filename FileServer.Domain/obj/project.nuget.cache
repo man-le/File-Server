@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2skomJy38aFgZD8EH6lFhr+KF0dcP7rMo2HbHRj3xeIbEWBhgDn1AVkcQoqliWCHAGo314OSuJ0KAV0ZHUJXZA==",
+  "success": true,
+  "projectFilePath": "C:\\File_Explorer\\Backend\\FileServer\\FileServer.Domain\\FileServer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cefvi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\cefvi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\cefvi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
